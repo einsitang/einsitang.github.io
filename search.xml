@@ -33,7 +33,7 @@
 <h1 id="Idol"><a href="#Idol" class="headerlink" title="Idol"></a>Idol</h1><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://raw.githubusercontent.com/einsitang/Figure-bed/master/img/%E5%BD%AD%E4%BA%8E%E6%99%8F.jpeg?token=AANKE5OKJMUCFGJJGJK47QLCVJELS"
+                     data-src="/images/idol_pengyuyan.jpeg"
                       alt="彭于晏"
                 ></p>
 <h1 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h1><blockquote>
@@ -52,8 +52,15 @@
     <title>changelog</title>
     <url>/changelog/index.html</url>
     <content><![CDATA[<ul>
+<li>2022.06.16<ul>
+<li>修正静态资源文件</li>
+</ul>
+</li>
+<li>2022.06.15<ul>
 <li>增加全文搜索支持</li>
 <li>项目搭建</li>
+</ul>
+</li>
 </ul>
 ]]></content>
   </entry>
