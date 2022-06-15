@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Sudoku</title>
+    <url>/2022/06/16/sudoku/</url>
+    <content><![CDATA[<h1 id="数独"><a href="#数独" class="headerlink" title="数独"></a>数独</h1><blockquote>
+<p>什么是数独？</p>
+</blockquote>
+<h2 id="Lib"><a href="#Lib" class="headerlink" title="Lib"></a>Lib</h2><h3 id="sudoku-nodejs"><a href="#sudoku-nodejs" class="headerlink" title="sudoku-nodejs"></a>sudoku-nodejs</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i @forfuns/sudoku</span><br></pre></td></tr></table></figure>
+
+<h3 id="sudoku-dart"><a href="#sudoku-dart" class="headerlink" title="sudoku-dart"></a>sudoku-dart</h3><h3 id="sudoku-go"><a href="#sudoku-go" class="headerlink" title="sudoku-go"></a>sudoku-go</h3><h2 id="App"><a href="#App" class="headerlink" title="App"></a>App</h2><h3 id="sudoku-flutter"><a href="#sudoku-flutter" class="headerlink" title="sudoku-flutter"></a>sudoku-flutter</h3>]]></content>
+      <tags>
+        <tag>sudoku</tag>
+        <tag>app</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2022/06/15/aboutme/</url>
+    <content><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><h2 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2><ul>
+<li>Email : <a class="link"   href="mailto:&#109;&#x79;&#x2d;&#116;&#97;&#110;&#x67;&#106;&#x69;&#x61;&#110;&#98;&#x69;&#110;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#111;&#x6d;" >&#109;&#x79;&#x2d;&#116;&#97;&#110;&#x67;&#106;&#x69;&#x61;&#110;&#98;&#x69;&#110;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#111;&#x6d;<i class="fas fa-external-link-alt"></i></a></li>
+<li>Github : <a class="link"   href="https://github.com/einsitang" >https://github.com/einsitang<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>about</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>changelog</title>
+    <url>/changelog/index.html</url>
+    <content><![CDATA[<ul>
+<li>增加全文搜索支持</li>
+<li>项目搭建</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
