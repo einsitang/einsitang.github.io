@@ -68,7 +68,7 @@
                             <a class=""
                                href="/"
                             >
-                                HOME
+                                首頁
                             </a>
                         </li>
                     
@@ -76,7 +76,7 @@
                             <a class=""
                                href="/archives"
                             >
-                                ARCHIVES
+                                歸檔
                             </a>
                         </li>
                     
@@ -84,7 +84,7 @@
                             <a class=""
                                href="/tags"
                             >
-                                TAGS
+                                標籤
                             </a>
                         </li>
                     
@@ -92,7 +92,7 @@
                             <a class=""
                                href="/changelog"
                             >
-                                CHANGELOG
+                                日誌
                             </a>
                         </li>
                     
@@ -119,22 +119,22 @@
             
                 <li class="drawer-menu-item flex-center">
                     <a class=""
-                       href="/">HOME</a>
+                       href="/">首頁</a>
                 </li>
             
                 <li class="drawer-menu-item flex-center">
                     <a class=""
-                       href="/archives">ARCHIVES</a>
+                       href="/archives">歸檔</a>
                 </li>
             
                 <li class="drawer-menu-item flex-center">
                     <a class=""
-                       href="/tags">TAGS</a>
+                       href="/tags">標籤</a>
                 </li>
             
                 <li class="drawer-menu-item flex-center">
                     <a class=""
-                       href="/changelog">CHANGELOG</a>
+                       href="/changelog">日誌</a>
                 </li>
             
         </ul>
@@ -152,208 +152,225 @@
             <div class="main-content">
 
                 
-                    <div class="fade-in-down-animation">
-    <div class="article-content-container">
+                    $avatarWidth = 46px;
+$arrow-icon-width = 16px;
+$post-nav-max-width = 220px;
+$article-title-font-size = 1.6rem;
 
-        <div class="article-title">
-            <span class="title-hover-animation">Sudoku</span>
-        </div>
+.article-content-container {
 
-        
-            <div class="article-header">
-                <div class="avatar">
-                    <img src="https://avatars.githubusercontent.com/u/1745525">
-                </div>
-                <div class="info">
-                    <div class="author">
-                        <span class="name">EinsiTang</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fas fa-edit"></i>&nbsp;
-        <span class="pc">2022-06-16 02:17:34</span>
-        <span class="mobile">2022-06-16 02:17</span>
-    </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fas fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/sudoku/">sudoku</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/app/">app</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
+  keep-container(false, 0, 0, 30px, 30px);
 
-    
-    
-        <span class="article-wordcount article-meta-item">
-            <i class="fas fa-file-word"></i>&nbsp;<span>217 Words</span>
-        </span>
-    
-    
-        <span class="article-min2read article-meta-item">
-            <i class="fas fa-clock"></i>&nbsp;<span>1 Mins</span>
-        </span>
-    
-    
-        <span class="article-pv article-meta-item">
-            <i class="fas fa-eye"></i>&nbsp;<span id="busuanzi_value_page_pv"></span>
-        </span>
-    
-</div>
+  .article-title {
+    color: var(--second-text-color);
+    font-weight: 600;
+    font-size: $article-title-font-size;
 
-                    </div>
-                </div>
-            </div>
-        
+    +keep-tablet() {
+      font-size: $article-title-font-size * 0.9;
+    }
 
-        <div class="article-content markdown-body">
-            <h1 id="数独"><a href="#数独" class="headerlink" title="数独"></a>数独</h1><blockquote>
-<p>是一种数学逻辑游戏，游戏由9×9个格子组成。<br>由9个3×3个的九宫格组成。<br>每一列的数字均须包含 1～9，不能缺少，也不能重复。<br>每一宫 3*3 的九宫格)的数字均须包含 1～9，不能缺少，也不能重复。</p>
-</blockquote>
-<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>数独可以锻炼逻辑思维能力，在计算数独时也可以帮助玩家提升注意力（类似<code>比舒尔特表</code>）</p>
-<h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><blockquote>
-<p>如何通过编写程序的方式，写一个属于自己的数独 ?</p>
-</blockquote>
-<h3 id="功能设计"><a href="#功能设计" class="headerlink" title="功能设计"></a>功能设计</h3><h4 id="计算器-解决puzzle"><a href="#计算器-解决puzzle" class="headerlink" title="计算器 - 解决puzzle"></a>计算器 - 解决puzzle</h4><h4 id="生成器-生成puzzle"><a href="#生成器-生成puzzle" class="headerlink" title="生成器 - 生成puzzle"></a>生成器 - 生成puzzle</h4><h4 id="交互界面-可人机交互的产品"><a href="#交互界面-可人机交互的产品" class="headerlink" title="交互界面 - 可人机交互的产品"></a>交互界面 - 可人机交互的产品</h4><h3 id="开源实现"><a href="#开源实现" class="headerlink" title="开源实现"></a>开源实现</h3><h4 id="Lib"><a href="#Lib" class="headerlink" title="Lib"></a>Lib</h4><ul>
-<li>sudoku-nodejs [ <a class="link"   target="_blank" rel="noopener" href="https://github.com/einsitang/sudoku-nodejs" >github<i class="fas fa-external-link-alt"></i></a>  ]</li>
-<li>sudoku-dart [ <a class="link"   target="_blank" rel="noopener" href="https://github.com/einsitang/sudoku-dart" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
-<li>sudoku-go [<a class="link"   target="_blank" rel="noopener" href="https://github.com/einsitang/sudoku-go" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
-</ul>
-<h4 id="App"><a href="#App" class="headerlink" title="App"></a>App</h4><ul>
-<li>sudoku-flutter [ <a class="link"   target="_blank" rel="noopener" href="https://github.com/einsitang/sudoku-flutter" >github<i class="fas fa-external-link-alt"></i></a> | <a class="link"   target="_blank" rel="noopener" href="https://github.com/forfuns/sudoku-flutter/releases/download/beta-202008310040/app-release.apk" >apk<i class="fas fa-external-link-alt"></i></a> ]</li>
-</ul>
-<h2 id="知乎相关回答"><a href="#知乎相关回答" class="headerlink" title="知乎相关回答"></a>知乎相关回答</h2><ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://www.zhihu.com/question/280012560/answer/2531334365" >如何做一个解任意数独的程序？ - 爱因斯 唐的回答 - 知乎<i class="fas fa-external-link-alt"></i></a></li>
-</ul>
+    +keep-mobile() {
+      font-size: $article-title-font-size * 0.8;
+    }
+  }
 
-        </div>
 
-        
-            <div class="post-copyright-info">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li>Post title：Sudoku</li>
-        <li>Post author：EinsiTang</li>
-        <li>Create time：2022-06-16 02:17:34</li>
-        <li>
-            Post link：https://einsitang.github.io/2022/06/16/sudoku/
-        </li>
-        <li>
-            Copyright Notice：All articles in this blog are licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">BY-NC-SA</a> unless stating additionally.
-        </li>
-    </ul>
-</div>
+  .article-header {
+    position: relative;
+    padding-left: $avatarWidth;
+    width: 100%;
+    height: $avatarWidth;
+    box-sizing: border-box;
 
-            </div>
-        
+    .avatar {
+      position: absolute;
+      top: 0
+      left: 0;
+      width: $avatarWidth;
+      height: $avatarWidth;
+      padding: 1px;
+      box-sizing: border-box;
+      border: 1px solid var(--border-color);
+      border-radius: 50%;
 
-        
-            <ul class="post-tags-box">
-                
-                    <li class="tag-item">
-                        <a href="/tags/sudoku/">#sudoku</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item">
-                        <a href="/tags/app/">#app</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      img {
+        border-radius: 50%;
+        width: 100%;
+        height: 100%;
+        background: var(--avatar-background-color);
+      }
 
-        
-            <div class="article-nav">
-                
-                
-                    <div class="article-next">
-                        <a class="next"
-                           rel="next"
-                           href="/2022/06/15/aboutme/"
-                        >
-                            <span class="title flex-center">
-                                <span class="post-nav-title-item">About Me</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex-center">
-                              <i class="fas fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    }
 
-        
-            <div class="comment-container">
-                <div class="comments-container">
-    <div id="comment-anchor"></div>
-    <div class="comment-area-title">
-        <i class="fas fa-comments">&nbsp;Comments</i>
-    </div>
-    
 
-        
-            
-    <div id="gitalk-container"></div>
-    <script 
-            src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-    <script >
+    .info {
+      padding: 2px 0;
+      margin-left: 10px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 100%;
+      height: 100%;
 
-        function loadGitalk() {
-            let __gitalk__pathname = decodeURI(location.pathname);
-            const __gitalk__pathnameLength = __gitalk__pathname.length;
-            const __gitalk__pathnameMaxLength = 50;
-            if (__gitalk__pathnameLength > __gitalk__pathnameMaxLength) {
-                __gitalk__pathname = __gitalk__pathname.substring(0, __gitalk__pathnameMaxLength - 3) + '...';
-            }
+      .author {
+        font-weight: 600;
+        font-size: 1.18rem;
+        display: flex;
+        align-items: center;
 
-            try {
-                Gitalk && new Gitalk({
-                    clientID: 'ba72af3a13c3d7d13246',
-                    clientSecret: 'd804823c692df70dcb2ed137627e3c4cc75dcb6b',
-                    repo: 'blog-gitment',
-                    owner: 'einsitang',
-                    admin: ['einsitang'],
-                    id: __gitalk__pathname,
-                    language: 'en,zh-cn'
-                }).render('gitalk-container');
-
-            } catch (e) {
-                window.Gitalk = null;
-            }
+        .name {
+          color: var(--default-text-color);
         }
 
-        if ('false') {
-            const loadGitalkTimeout = setTimeout(() => {
-                loadGitalk();
-                clearTimeout(loadGitalkTimeout);
-            }, 1000);
-        } else {
-            window.addEventListener('DOMContentLoaded', loadGitalk);
+        .author-label {
+          margin-left: 10px;
+          font-size: 0.8rem;
+          font-weight: 500;
+          padding: 0 5px;
+          border-radius: 5px;
+          color: #fff;
+          background: var(--selection-color);
         }
-    </script>
+
+      }
+    }
+
+  }
 
 
+  .article-header, .article-header-meta-info {
+    margin-top: 16px;
+    +keep-tablet() {
+      transform: scale(0.9);
+      transform-origin: left top;
+    }
+  }
 
-        
-    
-</div>
 
-            </div>
-        
-    </div>
-</div>
+  .article-content {
+    margin-top: $component-spacing-value;
+    padding-bottom: 10px;
+    word-wrap: break-word;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--default-text-color);
+  }
+
+
+  .post-tags-box {
+    display: none;
+    margin-top: 1.6rem;
+    justify-content: center;
+    font-size: 1.1rem;
+
+    +keep-tablet() {
+      display: flex;
+    }
+
+    +keep-mobile() {
+      margin-top: 1.2rem;
+      font-size: 1rem;
+    }
+
+
+    .tag-item {
+      margin: 0 0.25rem;
+    }
+  }
+
+  .post-copyright-info {
+    margin-top: $component-spacing-value;
+    width: 100%;
+
+    +keep-tablet() {
+      margin-top: $component-spacing-value * 0.8;
+    }
+  }
+
+
+  .article-nav {
+    height: 40px;
+    margin-top: $component-spacing-value;
+
+    .article-prev, .article-next {
+      max-width: $post-nav-max-width;
+      height: 100%;
+      box-sizing: border-box;
+
+      keep-container(true, 1.03, 1.03, 10px, 0);
+
+      a {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+
+        &.prev {
+          padding-left: $arrow-icon-width;
+        }
+
+        &.next {
+          padding-right: $arrow-icon-width;
+        }
+
+        .arrow-icon {
+          position: absolute;
+          top: 0;
+          height: 100%;
+          width: $arrow-icon-width;
+
+          &.left {
+            left: 0;
+          }
+
+          &.right {
+            right: 0;
+          }
+        }
+
+        .title {
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+    }
+
+    .article-prev {
+      float: left;
+    }
+
+    .article-next {
+      float: right;
+    }
+
+    .post-nav-item {
+      display: none;
+
+      +keep-tablet() {
+        display: inline-block;
+      }
+
+    }
+
+
+    .post-nav-title-item {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+
+      +keep-tablet() {
+        display: none;
+      }
+    }
+
+  }
+
+
+}
+
 
 
                 
@@ -377,18 +394,18 @@
             <div class="website-count info-item">
                 
                     <span id="busuanzi_container_site_uv">
-                        Visitor Count&nbsp;<span id="busuanzi_value_site_uv"></span>&ensp;
+                        讀者&nbsp;<span id="busuanzi_value_site_uv"></span>&ensp;
                     </span>
                 
                 
                     <span id="busuanzi_container_site_pv">
-                        Totalview&nbsp;<span id="busuanzi_value_site_pv"></span>
+                        閱覽&nbsp;<span id="busuanzi_value_site_pv"></span>
                     </span>
                 
             </div>
         
         <div class="theme-info info-item">
-            Powered by <a target="_blank" href="https://hexo.io">Hexo</a>&nbsp;|&nbsp;Theme&nbsp;<a class="theme-version" target="_blank" href="https://github.com/XPoet/hexo-theme-keep">Keep v3.4.5</a>
+            <a target="_blank" href="https://hexo.io">Hexo</a> 框架&nbsp;|&nbsp;主題&nbsp;<a class="theme-version" target="_blank" href="https://github.com/XPoet/hexo-theme-keep">Keep v3.4.5</a>
         </div>
         
         
@@ -491,7 +508,7 @@
                 <input autocomplete="off"
                        autocorrect="off"
                        autocapitalize="off"
-                       placeholder="Search..."
+                       placeholder="搜尋..."
                        spellcheck="false"
                        type="search"
                        class="search-input"

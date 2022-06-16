@@ -6,7 +6,7 @@
     <content><![CDATA[<h1 id="数独"><a href="#数独" class="headerlink" title="数独"></a>数独</h1><blockquote>
 <p>是一种数学逻辑游戏，游戏由9×9个格子组成。<br>由9个3×3个的九宫格组成。<br>每一列的数字均须包含 1～9，不能缺少，也不能重复。<br>每一宫 3*3 的九宫格)的数字均须包含 1～9，不能缺少，也不能重复。</p>
 </blockquote>
-<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>数独可以锻炼逻辑思维能力，在计算数独时也可以帮助玩家提升注意力（类似<code>比舒尔特表</code>）</p>
+<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>数独可以锻炼逻辑思维能力，在计算数独时也可以帮助玩家提升注意力（类比<code>舒尔特表</code>）</p>
 <h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><blockquote>
 <p>如何通过编写程序的方式，写一个属于自己的数独 ?</p>
 </blockquote>
