@@ -1,2 +1,4 @@
-# einsitang.github.io
-einsitang github pages
+# Intro
+this repository is archive for einsitang-blog
+
+view blog 👉🏻 https://einsitang.github.io
