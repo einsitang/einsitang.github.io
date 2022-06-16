@@ -4,11 +4,24 @@
     <title>Sudoku</title>
     <url>/2022/06/16/sudoku/</url>
     <content><![CDATA[<h1 id="数独"><a href="#数独" class="headerlink" title="数独"></a>数独</h1><blockquote>
-<p>什么是数独？</p>
+<p>是一种数学逻辑游戏，游戏由9×9个格子组成。<br>由9个3×3个的九宫格组成。<br>每一列的数字均须包含 1～9，不能缺少，也不能重复。<br>每一宫 3*3 的九宫格)的数字均须包含 1～9，不能缺少，也不能重复。</p>
 </blockquote>
-<h2 id="Lib"><a href="#Lib" class="headerlink" title="Lib"></a>Lib</h2><h3 id="sudoku-nodejs"><a href="#sudoku-nodejs" class="headerlink" title="sudoku-nodejs"></a>sudoku-nodejs</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i @forfuns/sudoku</span><br></pre></td></tr></table></figure>
-
-<h3 id="sudoku-dart"><a href="#sudoku-dart" class="headerlink" title="sudoku-dart"></a>sudoku-dart</h3><h3 id="sudoku-go"><a href="#sudoku-go" class="headerlink" title="sudoku-go"></a>sudoku-go</h3><h2 id="App"><a href="#App" class="headerlink" title="App"></a>App</h2><h3 id="sudoku-flutter"><a href="#sudoku-flutter" class="headerlink" title="sudoku-flutter"></a>sudoku-flutter</h3>]]></content>
+<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>数独可以锻炼逻辑思维能力，在计算数独时也可以帮助玩家提升注意力（类似<code>比舒尔特表</code>）</p>
+<h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><blockquote>
+<p>如何通过编写程序的方式，写一个属于自己的数独 ?</p>
+</blockquote>
+<h3 id="功能设计"><a href="#功能设计" class="headerlink" title="功能设计"></a>功能设计</h3><h4 id="计算器-解决puzzle"><a href="#计算器-解决puzzle" class="headerlink" title="计算器 - 解决puzzle"></a>计算器 - 解决puzzle</h4><h4 id="生成器-生成puzzle"><a href="#生成器-生成puzzle" class="headerlink" title="生成器 - 生成puzzle"></a>生成器 - 生成puzzle</h4><h4 id="交互界面-可人机交互的产品"><a href="#交互界面-可人机交互的产品" class="headerlink" title="交互界面 - 可人机交互的产品"></a>交互界面 - 可人机交互的产品</h4><h3 id="开源实现"><a href="#开源实现" class="headerlink" title="开源实现"></a>开源实现</h3><h4 id="Lib"><a href="#Lib" class="headerlink" title="Lib"></a>Lib</h4><ul>
+<li>sudoku-nodejs [ <a class="link"   href="https://github.com/einsitang/sudoku-nodejs" >github<i class="fas fa-external-link-alt"></i></a>  ]</li>
+<li>sudoku-dart [ <a class="link"   href="https://github.com/einsitang/sudoku-dart" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
+<li>sudoku-go [<a class="link"   href="https://github.com/einsitang/sudoku-go" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
+</ul>
+<h4 id="App"><a href="#App" class="headerlink" title="App"></a>App</h4><ul>
+<li>sudoku-flutter [ <a class="link"   href="https://github.com/einsitang/sudoku-flutter" >github<i class="fas fa-external-link-alt"></i></a> | apk ]</li>
+</ul>
+<h2 id="知乎相关回答"><a href="#知乎相关回答" class="headerlink" title="知乎相关回答"></a>知乎相关回答</h2><ul>
+<li><a class="link"   href="https://www.zhihu.com/question/280012560/answer/2531334365" >如何做一个解任意数独的程序？ - 爱因斯 唐的回答 - 知乎<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+]]></content>
       <tags>
         <tag>sudoku</tag>
         <tag>app</tag>
