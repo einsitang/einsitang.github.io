@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>About Me</title>
+    <url>/2022/06/15/aboutme/</url>
+    <content><![CDATA[<h1 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h1><p>JAVA系软件工程师/基础架构师，十年开发经验，全栈到架构，现为自由工作者(大龄下岗人士<span class="github-emoji"><span>🐶</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>)</p>
+<p>从事传统制造业互联网+转型、短视频、社交还有电商行业</p>
+<p>热衷各种有趣的开源项目</p>
+<p>时常搞点开发小创意</p>
+<h1 id="Interests"><a href="#Interests" class="headerlink" title="Interests"></a>Interests</h1><ul>
+<li><span class="github-emoji"><span>🏃</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>🏸</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>🐱</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>🐶</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>📖</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>🎥</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+<li><span class="github-emoji"><span>🎧</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
+</ul>
+<h1 id="Idol"><a href="#Idol" class="headerlink" title="Idol"></a>Idol</h1><p><img lazyload="" src="/images/loading.svg" data-src="/images/idol_pengyuyan.jpeg" alt="彭于晏的小迷弟"></p>
+<h1 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h1><blockquote>
+<p>如果你想我了，可以用以下公开信息联系我</p>
+</blockquote>
+<ul>
+<li>Email : <a class="link" href="mailto:my-tangjianbin@163.com">📮 mail 我<i class="fas fa-external-link-alt"></i></a></li>
+<li>Github : <a class="link" href="https://github.com/einsitang">https://github.com/einsitang<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <tags>
+        <tag>about</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Sudoku</title>
     <url>/2022/06/16/sudoku/</url>
     <content><![CDATA[<h1 id="数独"><a href="#数独" class="headerlink" title="数独"></a>数独</h1><blockquote>
@@ -11,60 +40,31 @@
 <p>如何通过编写程序的方式，创作一个属于自己的数独应用🚀 ?</p>
 </blockquote>
 <h3 id="功能设计"><a href="#功能设计" class="headerlink" title="功能设计"></a>功能设计</h3><h4 id="计算器-解决puzzle"><a href="#计算器-解决puzzle" class="headerlink" title="计算器 - 解决puzzle"></a>计算器 - 解决puzzle</h4><h4 id="生成器-生成puzzle"><a href="#生成器-生成puzzle" class="headerlink" title="生成器 - 生成puzzle"></a>生成器 - 生成puzzle</h4><h4 id="交互界面-可人机交互的产品"><a href="#交互界面-可人机交互的产品" class="headerlink" title="交互界面 - 可人机交互的产品"></a>交互界面 - 可人机交互的产品</h4><h3 id="开源实现"><a href="#开源实现" class="headerlink" title="开源实现"></a>开源实现</h3><h4 id="Lib"><a href="#Lib" class="headerlink" title="Lib"></a>Lib</h4><ul>
-<li>sudoku-nodejs [ <a class="link"   href="https://github.com/einsitang/sudoku-nodejs" >github<i class="fas fa-external-link-alt"></i></a>  ]</li>
-<li>sudoku-dart [ <a class="link"   href="https://github.com/einsitang/sudoku-dart" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
-<li>sudoku-go [<a class="link"   href="https://github.com/einsitang/sudoku-go" >github<i class="fas fa-external-link-alt"></i></a> ]</li>
+<li>sudoku-nodejs [ <a class="link" href="https://github.com/einsitang/sudoku-nodejs">github<i class="fas fa-external-link-alt"></i></a>  ]</li>
+<li>sudoku-dart [ <a class="link" href="https://github.com/einsitang/sudoku-dart">github<i class="fas fa-external-link-alt"></i></a> ]</li>
+<li>sudoku-go [<a class="link" href="https://github.com/einsitang/sudoku-go">github<i class="fas fa-external-link-alt"></i></a> ]</li>
 </ul>
 <h4 id="App"><a href="#App" class="headerlink" title="App"></a>App</h4><ul>
-<li>sudoku-flutter [ <a class="link"   href="https://github.com/einsitang/sudoku-flutter" >github<i class="fas fa-external-link-alt"></i></a> | <a class="link"   href="https://github.com/forfuns/sudoku-flutter/releases/download/beta-202008310040/app-release.apk" >apk<i class="fas fa-external-link-alt"></i></a> ]</li>
+<li>sudoku-flutter [ <a class="link" href="https://github.com/einsitang/sudoku-flutter">github<i class="fas fa-external-link-alt"></i></a> | <a class="link" href="https://github.com/forfuns/sudoku-flutter/releases/download/beta-202008310040/app-release.apk">apk<i class="fas fa-external-link-alt"></i></a> ]</li>
 </ul>
 <h2 id="知乎相关回答"><a href="#知乎相关回答" class="headerlink" title="知乎相关回答"></a>知乎相关回答</h2><ul>
-<li><a class="link"   href="https://www.zhihu.com/question/280012560/answer/2531334365" >如何做一个解任意数独的程序？ - 爱因斯 唐的回答 - 知乎<i class="fas fa-external-link-alt"></i></a></li>
+<li><a class="link" href="https://www.zhihu.com/question/280012560/answer/2531334365">如何做一个解任意数独的程序？ - 爱因斯 唐的回答 - 知乎<i class="fas fa-external-link-alt"></i></a></li>
 </ul>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <tags>
         <tag>sudoku</tag>
         <tag>app</tag>
       </tags>
   </entry>
   <entry>
-    <title>About Me</title>
-    <url>/2022/06/15/aboutme/</url>
-    <content><![CDATA[<h1 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h1><p>JAVA系软件工程师&#x2F;基础架构师，十年开发经验，全栈到架构，现为自由工作者(大龄下岗人士🐶)</p>
-<p>从事传统制造业互联网+转型、短视频、社交还有电商行业</p>
-<p>热衷各种有趣的开源项目</p>
-<p>时常搞点开发小创意</p>
-<h1 id="Interests"><a href="#Interests" class="headerlink" title="Interests"></a>Interests</h1><ul>
-<li>🏃🏻‍♀️</li>
-<li>🏸</li>
-<li>🐱</li>
-<li>🐶</li>
-<li>📚</li>
-<li>🎬</li>
-<li>🎵</li>
-</ul>
-<h1 id="Idol"><a href="#Idol" class="headerlink" title="Idol"></a>Idol</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/idol_pengyuyan.jpeg"
-                      alt="彭于晏的小迷弟"
-                ></p>
-<h1 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h1><blockquote>
-<p>如果你想我了，可以用以下公开信息联系我</p>
-</blockquote>
-<ul>
-<li>Email : <a class="link"   href="mailto:my-tangjianbin@163.com" >📮 mail 我<i class="fas fa-external-link-alt"></i></a></li>
-<li>Github : <a class="link"   href="https://github.com/einsitang" >https://github.com/einsitang<i class="fas fa-external-link-alt"></i></a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>about</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>changelog</title>
     <url>/changelog/index.html</url>
     <content><![CDATA[<ul>
+<li>2022.06.17<ul>
+<li>支持脑图</li>
+<li>支持 github emoji</li>
+</ul>
+</li>
 <li>2022.06.16<ul>
 <li>修正静态资源文件</li>
 </ul>
@@ -75,11 +75,11 @@
 </ul>
 </li>
 </ul>
-]]></content>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
   </entry>
   <entry>
     <title>tags</title>
     <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
   </entry>
 </search>
