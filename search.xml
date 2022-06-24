@@ -60,6 +60,10 @@
     <title>changelog</title>
     <url>/changelog/index.html</url>
     <content><![CDATA[<ul>
+<li>2022.06.24<ul>
+<li>添加ICP备案(是中国合法网站了<span class="github-emoji"><span>😃</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>)</li>
+</ul>
+</li>
 <li>2022.06.17<ul>
 <li>支持脑图</li>
 <li>支持 github emoji</li>
