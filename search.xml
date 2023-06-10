@@ -95,6 +95,16 @@
       </tags>
   </entry>
   <entry>
+    <title>摆脱Spring框架独立实现Java类扫描器</title>
+    <url>/2023/06/11/rain-project/</url>
+    <content><![CDATA[<h1 id="Rain-Project"><a href="#Rain-Project" class="headerlink" title="Rain-Project"></a>Rain-Project</h1><p>我在给我自己先挖个坑，等有空回来补全</p>
+<p>基础的功能已经完成，感兴趣可以关注 <a class="link" href="https://github.com/einsitang/rain">Rain-Project<i class="fas fa-external-link-alt"></i></a></p>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <tags>
+        <tag>algorithm</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>changelog</title>
     <url>/changelog/index.html</url>
     <content><![CDATA[<ul>
