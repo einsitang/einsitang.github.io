@@ -10,6 +10,8 @@
 <p>you can contact me with <a class="link" href="https://github.com/einsitang">github<i class="fas fa-external-link-alt"></i></a> or mail <a class="link" href="mailto:my-tangjianbin@163.com">me<i class="fas fa-external-link-alt"></i></a></p>
 </blockquote>
 <img align="right" height="250" width="375" alt="" lazyload="" src="/images/loading.svg" data-src="/images/gifs/coder.gif">
+<br>
+
 
 <h3 id="Languages-and-Tools"><a href="#Languages-and-Tools" class="headerlink" title="Languages and Tools:"></a>Languages and Tools:</h3><div class="language-and-tools">
     <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java">
@@ -24,16 +26,20 @@
     <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git">
     <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal">
     <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go">
-    <br>
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="idea">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode">
+    
+<pre><code>&lt;br/&gt;
+</code></pre>
 </div>
 
-<h3 id="Projects-and-Dev-Stuffs"><a href="#Projects-and-Dev-Stuffs" class="headerlink" title="Projects and Dev Stuffs:"></a>Projects and Dev Stuffs:</h3><details open="">	
+<h3 id="Dev-Stuffs-and-Projects"><a href="#Dev-Stuffs-and-Projects" class="headerlink" title="Dev Stuffs and Projects:"></a>Dev Stuffs and Projects:</h3><details open="">	
   <br>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
       <ul>
-          <li><b>OS:</b> Macos </li>
+        <li><b>OS:</b> Macos </li>
         <li><b>Laptop: </b> Macbook Pro</li>
-          <li><b>Browser: </b> Chrome / Safari</li>
+        <li><b>Browser: </b> Chrome / Safari</li>
         <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
         <li><b>Code Editor:</b> VSCode / IDEA</li>
         <li><b>Blog:</b> einsitang.github.io </li>
