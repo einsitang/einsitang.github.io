@@ -3,27 +3,147 @@
   <entry>
     <title>About Me</title>
     <url>/2022/06/15/aboutme/</url>
-    <content><![CDATA[<h1 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h1><p>JAVA系软件工程师/基础架构师，十年开发经验，全栈到架构，现为自由工作者(大龄下岗人士<span class="github-emoji"><span>🐶</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>)</p>
-<p>从事传统制造业互联网+转型、短视频、社交还有电商行业</p>
-<p>热衷各种有趣的开源项目</p>
-<p>时常搞点开发小创意</p>
-<h1 id="Interests"><a href="#Interests" class="headerlink" title="Interests"></a>Interests</h1><ul>
-<li><span class="github-emoji"><span>🏃</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>🏸</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3f8.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>🐱</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>🐶</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>📖</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>🎥</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-<li><span class="github-emoji"><span>🎧</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a7.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></li>
-</ul>
-<h1 id="Idol"><a href="#Idol" class="headerlink" title="Idol"></a>Idol</h1><p><img lazyload="" src="/images/loading.svg" data-src="/images/idol_pengyuyan.jpeg" alt="彭于晏的小迷弟"></p>
-<h1 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h1><blockquote>
-<p>如果你想我了，可以用以下公开信息联系我</p>
+    <content><![CDATA[<h2 id="Hey-👋-I’m-EinsiTang"><a href="#Hey-👋-I’m-EinsiTang" class="headerlink" title="Hey 👋, I’m EinsiTang"></a>Hey 👋, I’m EinsiTang</h2><p><img lazyload="" src="/images/loading.svg" data-src="/images/gifs/hello.gif" alt="Hello"></p>
+<h3 id="Glad-to-see-you-here"><a href="#Glad-to-see-you-here" class="headerlink" title="Glad to see you here!"></a>Glad to see you here!</h3><blockquote>
+<p>I’m a software enginner from China , love develop software and life for it , opensource contributor coding with <strong>java</strong> / <strong>nodejs</strong> and <strong>go</strong> .</p>
+<p>I have ten years of develop and architecture experience , for now working at home .</p>
+<p>you can contact me with <a class="link" href="https://github.com/einsitang">github<i class="fas fa-external-link-alt"></i></a> or mail <a class="link" href="mailto:my-tangjianbin@163.com">me<i class="fas fa-external-link-alt"></i></a></p>
 </blockquote>
-<ul>
-<li>Email : <a class="link" href="mailto:my-tangjianbin@163.com">📮 mail 我<i class="fas fa-external-link-alt"></i></a></li>
-<li>Github : <a class="link" href="https://github.com/einsitang">https://github.com/einsitang<i class="fas fa-external-link-alt"></i></a></li>
-</ul>
+<img align="right" height="250" width="375" alt="" lazyload="" src="/images/loading.svg" data-src="/images/gifs/coder.gif">
+
+<h3 id="Languages-and-Tools"><a href="#Languages-and-Tools" class="headerlink" title="Languages and Tools:"></a>Languages and Tools:</h3><div class="language-and-tools">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="spring">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/koa/koa.png" alt="koa">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="redis">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="es">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal">
+    <img height="27" align="left" lazyload="" src="/images/loading.svg" data-src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go">
+    <br>
+</div>
+
+<h3 id="Projects-and-Dev-Stuffs"><a href="#Projects-and-Dev-Stuffs" class="headerlink" title="Projects and Dev Stuffs:"></a>Projects and Dev Stuffs:</h3><details open="">	
+  <br>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+      <ul>
+          <li><b>OS:</b> Macos </li>
+        <li><b>Laptop: </b> Macbook Pro</li>
+          <li><b>Browser: </b> Chrome / Safari</li>
+        <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+        <li><b>Code Editor:</b> VSCode / IDEA</li>
+        <li><b>Blog:</b> einsitang.github.io </li>
+    </ul>	
+</details>
+
+<details open="">
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br>
+  <table>
+    <thead align="center">
+      <tr border:="" none;="">
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td><a href="https://github.com/Wechat-Group/WxJava"><b>🚀 WxJava</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/Wechat-Group/WxJava?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/Wechat-Group/WxJava?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/Wechat-Group/WxJava?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/Wechat-Group/WxJava?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/Wechat-Group/WxJava?style=flat-square"></td>
+      </tr>
+      <tr>
+          <td><a href="https://github.com/apache/rocketmq-spring"><b>🚀 rocketmq-spring</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/apache/rocketmq-spring?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/apache/rocketmq-spring?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/apache/rocketmq-spring?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/apache/rocketmq-spring?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/apache/rocketmq-spring?label=javascript&amp;style=flat-square"></td>
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/rain"><b>🚀 rain-project</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/rain?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/rain?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/rain?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/rain?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/einsitang/rain?style=flat-square"></td> 
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/sudoku-go"><b>🚀 sudoku-go</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/sudoku-go?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/sudoku-go?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/sudoku-go?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/sudoku-go?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/einsitang/sudoku-go?style=flat-square"></td> 
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/sudoku-nodejs"><b>🚀 sudoku-nodejs</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/sudoku-nodejs?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/sudoku-nodejs?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/sudoku-nodejs?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/sudoku-nodejs?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/einsitang/sudoku-nodejs?style=flat-square"></td> 
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/sudoku-dart"><b>🚀 sudoku-dart</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/sudoku-dart?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/sudoku-dart?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/sudoku-dart?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/sudoku-dart?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/einsitang/sudoku-dart?style=flat-square"></td> 
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/sudoku-flutter"><b>🚀 sudoku-flutter</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/sudoku-flutter?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/sudoku-flutter?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/sudoku-flutter?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/sudoku-flutter?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/languages/top/einsitang/sudoku-flutter?style=flat-square"></td> 
+      </tr>
+      <tr>
+          <td><a href="https://github.com/einsitang/einsitang"><b>🤓 einsitang</b></a></td>
+        <td><img alt="Stars" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/stars/einsitang/einsitang?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Forks" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/forks/einsitang/einsitang?style=flat-square&amp;labelColor=343b41"></td>
+        <td><img alt="Issues" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues/einsitang/einsitang?style=flat-square"></td>
+        <td><img alt="Pull Requests" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/github/issues-pr/einsitang/einsitang?style=flat-square"></td>
+        <td><img alt="Language" lazyload="" src="/images/loading.svg" data-src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br>
+</details>
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br>
+  <img height="180em" lazyload="" src="/images/loading.svg" data-src="https://github-readme-stats.vercel.app/api?username=einsitang&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true">
+  <img height="180em" lazyload="" src="/images/loading.svg" data-src="https://github-readme-stats.vercel.app/api/top-langs/?username=einsitang&amp;exclude_repo=KNN-Image-Classification&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8">
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br>
+  <img height="180em" lazyload="" src="/images/loading.svg" data-src="https://github-readme-streak-stats.herokuapp.com/?user=einsitang&amp;hide_border=true">
+</details>
+
+<p><img lazyload="" src="/images/loading.svg" data-src="/images/gifs/bars.gif"></p>
+<div align="center">
+
+<h3 id="Show-some-❤️-by-starring-some-of-the-repositories"><a href="#Show-some-❤️-by-starring-some-of-the-repositories" class="headerlink" title="Show some ❤️ by starring some of the repositories!"></a>Show some ❤️ by starring some of the repositories!</h3></div>
 <script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <tags>
         <tag>about</tag>
